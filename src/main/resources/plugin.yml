@@ -1,0 +1,11 @@
+name: FunFake
+version: '${project.version}'
+main: org.chesterirod.zxxc.Zxc
+api-version: '1.20'
+commands:
+  funfake:
+    description: funfake
+    usage: /funfake
+permissions:
+  command.zxc:
+    default: op
